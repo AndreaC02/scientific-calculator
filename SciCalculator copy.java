@@ -89,4 +89,4 @@ public class SciCalculator {
         }
         System.out.println("Thanks for using this calculator. Goodbye!");
     }
-}
+}//end program... this comment is for gitHub
